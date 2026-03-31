@@ -53,6 +53,13 @@ def slug_from_url(url):
     return hashlib.md5(url.encode()).hexdigest()[:12]
 
 
+def page_has_h1(html):
+    """Check if the page has an H1 tag with non-empty text content."""
+    soup = BeautifulSoup(html, "html.parser")
+    h1 = soup.find("h1")
+    return h1 is not None and bool(h1.get_text(strip=True))
+
+
 def check_link_on_page(html, target_link, page_url):
     """
     Check if a target link path appears in any <a> tag in the page content,
@@ -172,22 +179,24 @@ def run(pairs, api_key, render_js=False, delay_between=1):
                 results.append({
                     "page": page_url, "target_link": target_link,
                     "language": "en", "status_code": status_code,
-                    "link_found": None, "error": "page fetch failed",
+                    "link_found": None, "has_h1": None, "error": "page fetch failed",
                 })
                 if not from_cache:
                     time.sleep(delay_between)
                 continue
 
+            has_h1 = page_has_h1(html)
             found, matches, anchors = check_link_on_page(html, target_link, page_url)
             status = "✓ FOUND" if found else "✗ NOT FOUND"
+            h1_tag = " [no H1]" if not has_h1 else ""
             cached_tag = " (cached)" if from_cache else ""
             anchor_info = f' anchor="{anchors[0]}"' if anchors else ""
-            print(f"  [en] {status}" + (f" ({len(matches)} match(es)){anchor_info}" if found else "") + cached_tag)
+            print(f"  [en] {status}" + (f" ({len(matches)} match(es)){anchor_info}" if found else "") + h1_tag + cached_tag)
 
             results.append({
                 "page": page_url, "target_link": target_link,
                 "language": "en", "status_code": status_code,
-                "link_found": found, "matches": matches, "anchor_texts": anchors,
+                "link_found": found, "has_h1": has_h1, "matches": matches, "anchor_texts": anchors,
             })
 
             # Check alternate language versions
@@ -203,16 +212,18 @@ def run(pairs, api_key, render_js=False, delay_between=1):
                         api_calls += 1
 
                     if alt_html is not None:
+                        alt_has_h1 = page_has_h1(alt_html)
                         alt_found, alt_matches, alt_anchors = check_link_on_page(alt_html, lang_target, alt_url)
                         alt_status = "✓ FOUND" if alt_found else "✗ NOT FOUND"
+                        alt_h1_tag = " [no H1]" if not alt_has_h1 else ""
                         alt_cached_tag = " (cached)" if alt_from_cache else ""
                         alt_anchor_info = f' anchor="{alt_anchors[0]}"' if alt_anchors else ""
-                        print(f"  [{lang}] {alt_status}" + (f" ({len(alt_matches)} match(es)){alt_anchor_info}" if alt_found else "") + alt_cached_tag)
+                        print(f"  [{lang}] {alt_status}" + (f" ({len(alt_matches)} match(es)){alt_anchor_info}" if alt_found else "") + alt_h1_tag + alt_cached_tag)
 
                         results.append({
                             "page": alt_url, "target_link": lang_target,
                             "language": lang, "status_code": alt_status_code,
-                            "link_found": alt_found, "matches": alt_matches,
+                            "link_found": alt_found, "has_h1": alt_has_h1, "matches": alt_matches,
                             "anchor_texts": alt_anchors, "source_page": page_url,
                         })
                     else:
@@ -220,7 +231,7 @@ def run(pairs, api_key, render_js=False, delay_between=1):
                         results.append({
                             "page": alt_url, "target_link": lang_target,
                             "language": lang, "status_code": alt_status_code,
-                            "link_found": None, "error": "page fetch failed",
+                            "link_found": None, "has_h1": None, "error": "page fetch failed",
                             "source_page": page_url,
                         })
 
@@ -231,7 +242,7 @@ def run(pairs, api_key, render_js=False, delay_between=1):
                     print(f"  [{lang}] ✗ Error: {e}")
                     results.append({
                         "page": alt_url, "target_link": lang_target,
-                        "language": lang, "link_found": None, "error": str(e),
+                        "language": lang, "link_found": None, "has_h1": None, "error": str(e),
                         "source_page": page_url,
                     })
 
@@ -239,7 +250,7 @@ def run(pairs, api_key, render_js=False, delay_between=1):
             print(f"  ✗ Error: {e}")
             results.append({
                 "page": page_url, "target_link": target_link,
-                "language": "en", "link_found": None, "error": str(e),
+                "language": "en", "link_found": None, "has_h1": None, "error": str(e),
             })
 
         if not from_cache:
@@ -254,13 +265,14 @@ def run(pairs, api_key, render_js=False, delay_between=1):
     report_csv = output_dir / "report.csv"
     with open(report_csv, "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
-        writer.writerow(["Page", "Target Link", "Language", "Link Found", "Anchor Text", "Status Code", "Matches", "Error"])
+        writer.writerow(["Page", "Target Link", "Language", "Link Found", "Has H1", "Anchor Text", "Status Code", "Matches", "Error"])
         for r in results:
             writer.writerow([
                 r.get("page", ""),
                 r.get("target_link", ""),
                 r.get("language", ""),
                 r.get("link_found", ""),
+                r.get("has_h1", ""),
                 "; ".join(r.get("anchor_texts", [])),
                 r.get("status_code", ""),
                 "; ".join(r.get("matches", [])),
