@@ -1,1 +1,2 @@
 scrapingbee
+beautifulsoup4
