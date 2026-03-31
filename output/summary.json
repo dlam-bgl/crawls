@@ -9,7 +9,7 @@
       "/en/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "crypto live casino"
     ]
   },
   {
@@ -22,7 +22,7 @@
       "/en/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "crypto live casino"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/live/baccarat"
   },
@@ -31,13 +31,9 @@
     "target_link": "/casino",
     "language": "es",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/es/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/baccarat"
   },
   {
@@ -50,7 +46,7 @@
       "/de/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "Krypto-Live-Casino"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/live/baccarat"
   },
@@ -59,13 +55,9 @@
     "target_link": "/casino",
     "language": "it",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/it/casino"
-    ],
-    "anchor_texts": [
-      "Casin\u00f2"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/baccarat"
   },
   {
@@ -73,13 +65,9 @@
     "target_link": "/casino",
     "language": "fr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/fr/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/baccarat"
   },
   {
@@ -87,13 +75,9 @@
     "target_link": "/casino",
     "language": "sv",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/sv/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/baccarat"
   },
   {
@@ -101,13 +85,9 @@
     "target_link": "/casino",
     "language": "hu",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/hu/casino"
-    ],
-    "anchor_texts": [
-      "Kaszin\u00f3"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/baccarat"
   },
   {
@@ -115,13 +95,9 @@
     "target_link": "/casino",
     "language": "tr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/tr/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/baccarat"
   },
   {
@@ -129,13 +105,9 @@
     "target_link": "/casino",
     "language": "pl",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pl/casino"
-    ],
-    "anchor_texts": [
-      "Kasyno"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/baccarat"
   },
   {
@@ -143,13 +115,9 @@
     "target_link": "/casino",
     "language": "pt-br",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pt-br/casino"
-    ],
-    "anchor_texts": [
-      "Cassino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/baccarat"
   },
   {
@@ -157,13 +125,9 @@
     "target_link": "/casino",
     "language": "ru",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ru/casino"
-    ],
-    "anchor_texts": [
-      "\u041a\u0430\u0437\u0438\u043d\u043e"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/baccarat"
   },
   {
@@ -171,13 +135,9 @@
     "target_link": "/casino",
     "language": "ro",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ro/casino"
-    ],
-    "anchor_texts": [
-      "Cazino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/baccarat"
   },
   {
@@ -185,13 +145,9 @@
     "target_link": "/casino",
     "language": "ko",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ko/casino"
-    ],
-    "anchor_texts": [
-      "\uce74\uc9c0\ub178"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/baccarat"
   },
   {
@@ -199,13 +155,9 @@
     "target_link": "/casino",
     "language": "ja",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ja/casino"
-    ],
-    "anchor_texts": [
-      "\u30ab\u30b8\u30ce"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/baccarat"
   },
   {
@@ -213,13 +165,9 @@
     "target_link": "/casino",
     "language": "th",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/th/casino"
-    ],
-    "anchor_texts": [
-      "\u0e04\u0e32\u0e2a\u0e34\u0e42\u0e19"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/baccarat"
   },
   {
@@ -227,13 +175,9 @@
     "target_link": "/casino",
     "language": "vi",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/vi/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/baccarat"
   },
   {
@@ -246,7 +190,7 @@
       "/en/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "crypto casino"
     ]
   },
   {
@@ -259,7 +203,7 @@
       "/en/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "crypto casino"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/live/blackjack"
   },
@@ -273,7 +217,7 @@
       "/es/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "casino de criptomonedas"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/live/blackjack"
   },
@@ -287,7 +231,7 @@
       "/de/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "Krypto-Casino"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/live/blackjack"
   },
@@ -301,7 +245,7 @@
       "/it/casino"
     ],
     "anchor_texts": [
-      "Casin\u00f2"
+      "casin\u00f2 per criptovalute"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/live/blackjack"
   },
@@ -315,7 +259,7 @@
       "/fr/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "casino en crypto"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/live/blackjack"
   },
@@ -324,13 +268,9 @@
     "target_link": "/casino",
     "language": "sv",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/sv/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/blackjack"
   },
   {
@@ -338,13 +278,9 @@
     "target_link": "/casino",
     "language": "hu",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/hu/casino"
-    ],
-    "anchor_texts": [
-      "Kaszin\u00f3"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/blackjack"
   },
   {
@@ -352,13 +288,9 @@
     "target_link": "/casino",
     "language": "tr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/tr/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/blackjack"
   },
   {
@@ -366,13 +298,9 @@
     "target_link": "/casino",
     "language": "pl",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pl/casino"
-    ],
-    "anchor_texts": [
-      "Kasyno"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/blackjack"
   },
   {
@@ -380,13 +308,9 @@
     "target_link": "/casino",
     "language": "pt-br",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pt-br/casino"
-    ],
-    "anchor_texts": [
-      "Cassino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/blackjack"
   },
   {
@@ -394,13 +318,9 @@
     "target_link": "/casino",
     "language": "ru",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ru/casino"
-    ],
-    "anchor_texts": [
-      "\u041a\u0430\u0437\u0438\u043d\u043e"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/blackjack"
   },
   {
@@ -408,13 +328,9 @@
     "target_link": "/casino",
     "language": "ro",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ro/casino"
-    ],
-    "anchor_texts": [
-      "Cazino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/blackjack"
   },
   {
@@ -422,13 +338,9 @@
     "target_link": "/casino",
     "language": "ko",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ko/casino"
-    ],
-    "anchor_texts": [
-      "\uce74\uc9c0\ub178"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/blackjack"
   },
   {
@@ -441,7 +353,7 @@
       "/ja/casino"
     ],
     "anchor_texts": [
-      "\u30ab\u30b8\u30ce"
+      "\u4eee\u60f3\u901a\u8ca8\u30ab\u30b8\u30ce"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/live/blackjack"
   },
@@ -450,13 +362,9 @@
     "target_link": "/casino",
     "language": "th",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/th/casino"
-    ],
-    "anchor_texts": [
-      "\u0e04\u0e32\u0e2a\u0e34\u0e42\u0e19"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/blackjack"
   },
   {
@@ -469,7 +377,7 @@
       "/vi/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "casino tr\u1ef1c ti\u1ebfp"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/live/blackjack"
   },
@@ -483,7 +391,7 @@
       "/en/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "bitcoin live casino"
     ]
   },
   {
@@ -496,7 +404,7 @@
       "/en/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "bitcoin live casino"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/live/table_games"
   },
@@ -510,7 +418,7 @@
       "/es/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "casino Bitcoin en vivo"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/live/table_games"
   },
@@ -524,7 +432,7 @@
       "/de/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "Bitcoin-Live-Casino"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/live/table_games"
   },
@@ -533,13 +441,9 @@
     "target_link": "/casino",
     "language": "it",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/it/casino"
-    ],
-    "anchor_texts": [
-      "Casin\u00f2"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/table_games"
   },
   {
@@ -547,13 +451,9 @@
     "target_link": "/casino",
     "language": "fr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/fr/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/table_games"
   },
   {
@@ -561,13 +461,9 @@
     "target_link": "/casino",
     "language": "sv",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/sv/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/table_games"
   },
   {
@@ -575,13 +471,9 @@
     "target_link": "/casino",
     "language": "hu",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/hu/casino"
-    ],
-    "anchor_texts": [
-      "Kaszin\u00f3"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/table_games"
   },
   {
@@ -589,13 +481,9 @@
     "target_link": "/casino",
     "language": "tr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/tr/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/table_games"
   },
   {
@@ -603,13 +491,9 @@
     "target_link": "/casino",
     "language": "pl",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pl/casino"
-    ],
-    "anchor_texts": [
-      "Kasyno"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/table_games"
   },
   {
@@ -617,13 +501,9 @@
     "target_link": "/casino",
     "language": "pt-br",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pt-br/casino"
-    ],
-    "anchor_texts": [
-      "Cassino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/table_games"
   },
   {
@@ -631,13 +511,9 @@
     "target_link": "/casino",
     "language": "ru",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ru/casino"
-    ],
-    "anchor_texts": [
-      "\u041a\u0430\u0437\u0438\u043d\u043e"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/table_games"
   },
   {
@@ -645,13 +521,9 @@
     "target_link": "/casino",
     "language": "ro",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ro/casino"
-    ],
-    "anchor_texts": [
-      "Cazino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/table_games"
   },
   {
@@ -659,13 +531,9 @@
     "target_link": "/casino",
     "language": "ko",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ko/casino"
-    ],
-    "anchor_texts": [
-      "\uce74\uc9c0\ub178"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/table_games"
   },
   {
@@ -673,13 +541,9 @@
     "target_link": "/casino",
     "language": "ja",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ja/casino"
-    ],
-    "anchor_texts": [
-      "\u30ab\u30b8\u30ce"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/table_games"
   },
   {
@@ -687,13 +551,9 @@
     "target_link": "/casino",
     "language": "th",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/th/casino"
-    ],
-    "anchor_texts": [
-      "\u0e04\u0e32\u0e2a\u0e34\u0e42\u0e19"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/table_games"
   },
   {
@@ -701,13 +561,9 @@
     "target_link": "/casino",
     "language": "vi",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/vi/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/table_games"
   },
   {
@@ -720,11 +576,11 @@
       "/en/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "bitcoin casino"
     ]
   },
   {
-    "page": "https://www.cloudbet.com/en/casino/[...slug]",
+    "page": "https://www.cloudbet.com/en/casino/live/roulette",
     "target_link": "/casino",
     "language": "en",
     "status_code": 200,
@@ -733,218 +589,158 @@
       "/en/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "bitcoin casino"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/live/roulette"
   },
   {
-    "page": "https://www.cloudbet.com/es/casino/[...slug]",
+    "page": "https://www.cloudbet.com/es/casino/live/roulette",
     "target_link": "/casino",
     "language": "es",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/es/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/roulette"
   },
   {
-    "page": "https://www.cloudbet.com/de/casino/[...slug]",
+    "page": "https://www.cloudbet.com/de/casino/live/roulette",
     "target_link": "/casino",
     "language": "de",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/de/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/roulette"
   },
   {
-    "page": "https://www.cloudbet.com/it/casino/[...slug]",
+    "page": "https://www.cloudbet.com/it/casino/live/roulette",
     "target_link": "/casino",
     "language": "it",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/it/casino"
-    ],
-    "anchor_texts": [
-      "Casin\u00f2"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/roulette"
   },
   {
-    "page": "https://www.cloudbet.com/fr/casino/[...slug]",
+    "page": "https://www.cloudbet.com/fr/casino/live/roulette",
     "target_link": "/casino",
     "language": "fr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/fr/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/roulette"
   },
   {
-    "page": "https://www.cloudbet.com/sv/casino/[...slug]",
+    "page": "https://www.cloudbet.com/sv/casino/live/roulette",
     "target_link": "/casino",
     "language": "sv",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/sv/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/roulette"
   },
   {
-    "page": "https://www.cloudbet.com/hu/casino/[...slug]",
+    "page": "https://www.cloudbet.com/hu/casino/live/roulette",
     "target_link": "/casino",
     "language": "hu",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/hu/casino"
-    ],
-    "anchor_texts": [
-      "Kaszin\u00f3"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/roulette"
   },
   {
-    "page": "https://www.cloudbet.com/tr/casino/[...slug]",
+    "page": "https://www.cloudbet.com/tr/casino/live/roulette",
     "target_link": "/casino",
     "language": "tr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/tr/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/roulette"
   },
   {
-    "page": "https://www.cloudbet.com/pl/casino/[...slug]",
+    "page": "https://www.cloudbet.com/pl/casino/live/roulette",
     "target_link": "/casino",
     "language": "pl",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pl/casino"
-    ],
-    "anchor_texts": [
-      "Kasyno"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/roulette"
   },
   {
-    "page": "https://www.cloudbet.com/pt-br/casino/[...slug]",
+    "page": "https://www.cloudbet.com/pt-br/casino/live/roulette",
     "target_link": "/casino",
     "language": "pt-br",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pt-br/casino"
-    ],
-    "anchor_texts": [
-      "Cassino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/roulette"
   },
   {
-    "page": "https://www.cloudbet.com/ru/casino/[...slug]",
+    "page": "https://www.cloudbet.com/ru/casino/live/roulette",
     "target_link": "/casino",
     "language": "ru",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ru/casino"
-    ],
-    "anchor_texts": [
-      "\u041a\u0430\u0437\u0438\u043d\u043e"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/roulette"
   },
   {
-    "page": "https://www.cloudbet.com/ro/casino/[...slug]",
+    "page": "https://www.cloudbet.com/ro/casino/live/roulette",
     "target_link": "/casino",
     "language": "ro",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ro/casino"
-    ],
-    "anchor_texts": [
-      "Cazino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/roulette"
   },
   {
-    "page": "https://www.cloudbet.com/ko/casino/[...slug]",
+    "page": "https://www.cloudbet.com/ko/casino/live/roulette",
     "target_link": "/casino",
     "language": "ko",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ko/casino"
-    ],
-    "anchor_texts": [
-      "\uce74\uc9c0\ub178"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/roulette"
   },
   {
-    "page": "https://www.cloudbet.com/ja/casino/[...slug]",
+    "page": "https://www.cloudbet.com/ja/casino/live/roulette",
     "target_link": "/casino",
     "language": "ja",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ja/casino"
-    ],
-    "anchor_texts": [
-      "\u30ab\u30b8\u30ce"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/roulette"
   },
   {
-    "page": "https://www.cloudbet.com/th/casino/[...slug]",
+    "page": "https://www.cloudbet.com/th/casino/live/roulette",
     "target_link": "/casino",
     "language": "th",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/th/casino"
-    ],
-    "anchor_texts": [
-      "\u0e04\u0e32\u0e2a\u0e34\u0e42\u0e19"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/roulette"
   },
   {
-    "page": "https://www.cloudbet.com/vi/casino/[...slug]",
+    "page": "https://www.cloudbet.com/vi/casino/live/roulette",
     "target_link": "/casino",
     "language": "vi",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/vi/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/live/roulette"
   },
   {
@@ -957,7 +753,7 @@
       "/en/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "bitcoin casino"
     ]
   },
   {
@@ -970,7 +766,7 @@
       "/en/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "bitcoin casino"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/provably-fair"
   },
@@ -984,7 +780,7 @@
       "/es/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "casino Bitcoin"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/provably-fair"
   },
@@ -998,7 +794,7 @@
       "/de/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "Bitcoin-Casino"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/provably-fair"
   },
@@ -1012,7 +808,7 @@
       "/it/casino"
     ],
     "anchor_texts": [
-      "Casin\u00f2"
+      "casin\u00f2 bitcoin"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/provably-fair"
   },
@@ -1026,7 +822,7 @@
       "/fr/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "casino bitcoin"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/provably-fair"
   },
@@ -1040,7 +836,7 @@
       "/sv/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "bitcoin-casino"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/provably-fair"
   },
@@ -1054,7 +850,7 @@
       "/hu/casino"
     ],
     "anchor_texts": [
-      "Kaszin\u00f3"
+      "Bitcoin kaszin\u00f3"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/provably-fair"
   },
@@ -1068,7 +864,7 @@
       "/tr/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "Bitcoin casinonun"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/provably-fair"
   },
@@ -1082,7 +878,7 @@
       "/pl/casino"
     ],
     "anchor_texts": [
-      "Kasyno"
+      "kasyna kryptowalutowego"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/provably-fair"
   },
@@ -1096,7 +892,7 @@
       "/pt-br/casino"
     ],
     "anchor_texts": [
-      "Cassino"
+      "cassino de Bitcoin"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/provably-fair"
   },
@@ -1110,7 +906,7 @@
       "/ru/casino"
     ],
     "anchor_texts": [
-      "\u041a\u0430\u0437\u0438\u043d\u043e"
+      "\u0431\u0438\u0442\u043a\u043e\u0438\u043d-\u043a\u0430\u0437\u0438\u043d\u043e"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/provably-fair"
   },
@@ -1119,13 +915,9 @@
     "target_link": "/casino",
     "language": "ro",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ro/casino"
-    ],
-    "anchor_texts": [
-      "Cazino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/provably-fair"
   },
   {
@@ -1138,7 +930,7 @@
       "/ko/casino"
     ],
     "anchor_texts": [
-      "\uce74\uc9c0\ub178"
+      "\ube44\ud2b8\ucf54\uc778 \uce74\uc9c0\ub178"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/provably-fair"
   },
@@ -1152,7 +944,7 @@
       "/ja/casino"
     ],
     "anchor_texts": [
-      "\u30ab\u30b8\u30ce"
+      "\u30d3\u30c3\u30c8\u30b3\u30a4\u30f3\u30ab\u30b8\u30ce"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/provably-fair"
   },
@@ -1166,7 +958,7 @@
       "/th/casino"
     ],
     "anchor_texts": [
-      "\u0e04\u0e32\u0e2a\u0e34\u0e42\u0e19"
+      "\u0e04\u0e32\u0e2a\u0e34\u0e42\u0e19 Bitcoin"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/provably-fair"
   },
@@ -1180,7 +972,7 @@
       "/vi/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "casino bitcoin"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/provably-fair"
   },
@@ -1194,7 +986,7 @@
       "/en/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "crypto casino games"
     ]
   },
   {
@@ -1207,7 +999,7 @@
       "/en/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "crypto casino games"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/studios/evolution"
   },
@@ -1221,7 +1013,7 @@
       "/es/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "juegos de criptocasino"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/studios/evolution"
   },
@@ -1230,13 +1022,9 @@
     "target_link": "/casino",
     "language": "de",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/de/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/evolution"
   },
   {
@@ -1249,7 +1037,7 @@
       "/it/casino"
     ],
     "anchor_texts": [
-      "Casin\u00f2"
+      "giochi di casin\u00f2 in criptovaluta"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/studios/evolution"
   },
@@ -1258,13 +1046,9 @@
     "target_link": "/casino",
     "language": "fr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/fr/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/evolution"
   },
   {
@@ -1272,13 +1056,9 @@
     "target_link": "/casino",
     "language": "sv",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/sv/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/evolution"
   },
   {
@@ -1286,13 +1066,9 @@
     "target_link": "/casino",
     "language": "hu",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/hu/casino"
-    ],
-    "anchor_texts": [
-      "Kaszin\u00f3"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/evolution"
   },
   {
@@ -1305,7 +1081,7 @@
       "/tr/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "kripto casino oyunlar\u0131n\u0131"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/studios/evolution"
   },
@@ -1319,7 +1095,7 @@
       "/pl/casino"
     ],
     "anchor_texts": [
-      "Kasyno"
+      "gry online w kryptowalutach"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/studios/evolution"
   },
@@ -1333,7 +1109,7 @@
       "/pt-br/casino"
     ],
     "anchor_texts": [
-      "Cassino"
+      "jogos de cassino com criptomoedas"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/studios/evolution"
   },
@@ -1347,7 +1123,7 @@
       "/ru/casino"
     ],
     "anchor_texts": [
-      "\u041a\u0430\u0437\u0438\u043d\u043e"
+      "\u0438\u0433\u0440\u0430\u0445 \u043a\u0440\u0438\u043f\u0442\u043e\u043a\u0430\u0437\u0438\u043d\u043e"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/studios/evolution"
   },
@@ -1356,13 +1132,9 @@
     "target_link": "/casino",
     "language": "ro",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ro/casino"
-    ],
-    "anchor_texts": [
-      "Cazino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/evolution"
   },
   {
@@ -1370,13 +1142,9 @@
     "target_link": "/casino",
     "language": "ko",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ko/casino"
-    ],
-    "anchor_texts": [
-      "\uce74\uc9c0\ub178"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/evolution"
   },
   {
@@ -1389,7 +1157,7 @@
       "/ja/casino"
     ],
     "anchor_texts": [
-      "\u30ab\u30b8\u30ce"
+      "\u30af\u30ea\u30d7\u30c8\u30ab\u30b8\u30ce\u30b2\u30fc\u30e0"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/studios/evolution"
   },
@@ -1398,13 +1166,9 @@
     "target_link": "/casino",
     "language": "th",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/th/casino"
-    ],
-    "anchor_texts": [
-      "\u0e04\u0e32\u0e2a\u0e34\u0e42\u0e19"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/evolution"
   },
   {
@@ -1417,7 +1181,7 @@
       "/vi/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "tr\u00f2 ch\u01a1i casino ti\u1ec1n \u0111i\u1ec7n t\u1eed"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/studios/evolution"
   },
@@ -1431,11 +1195,11 @@
       "/en/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "crypto gaming"
     ]
   },
   {
-    "page": "https://www.cloudbet.com/en/casino/[...slug]",
+    "page": "https://www.cloudbet.com/en/casino/studios/hacksawgaming",
     "target_link": "/casino",
     "language": "en",
     "status_code": 200,
@@ -1444,218 +1208,158 @@
       "/en/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "crypto gaming"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/studios/hacksawgaming"
   },
   {
-    "page": "https://www.cloudbet.com/es/casino/[...slug]",
+    "page": "https://www.cloudbet.com/es/casino/studios/hacksawgaming",
     "target_link": "/casino",
     "language": "es",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/es/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/hacksawgaming"
   },
   {
-    "page": "https://www.cloudbet.com/de/casino/[...slug]",
+    "page": "https://www.cloudbet.com/de/casino/studios/hacksawgaming",
     "target_link": "/casino",
     "language": "de",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/de/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/hacksawgaming"
   },
   {
-    "page": "https://www.cloudbet.com/it/casino/[...slug]",
+    "page": "https://www.cloudbet.com/it/casino/studios/hacksawgaming",
     "target_link": "/casino",
     "language": "it",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/it/casino"
-    ],
-    "anchor_texts": [
-      "Casin\u00f2"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/hacksawgaming"
   },
   {
-    "page": "https://www.cloudbet.com/fr/casino/[...slug]",
+    "page": "https://www.cloudbet.com/fr/casino/studios/hacksawgaming",
     "target_link": "/casino",
     "language": "fr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/fr/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/hacksawgaming"
   },
   {
-    "page": "https://www.cloudbet.com/sv/casino/[...slug]",
+    "page": "https://www.cloudbet.com/sv/casino/studios/hacksawgaming",
     "target_link": "/casino",
     "language": "sv",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/sv/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/hacksawgaming"
   },
   {
-    "page": "https://www.cloudbet.com/hu/casino/[...slug]",
+    "page": "https://www.cloudbet.com/hu/casino/studios/hacksawgaming",
     "target_link": "/casino",
     "language": "hu",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/hu/casino"
-    ],
-    "anchor_texts": [
-      "Kaszin\u00f3"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/hacksawgaming"
   },
   {
-    "page": "https://www.cloudbet.com/tr/casino/[...slug]",
+    "page": "https://www.cloudbet.com/tr/casino/studios/hacksawgaming",
     "target_link": "/casino",
     "language": "tr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/tr/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/hacksawgaming"
   },
   {
-    "page": "https://www.cloudbet.com/pl/casino/[...slug]",
+    "page": "https://www.cloudbet.com/pl/casino/studios/hacksawgaming",
     "target_link": "/casino",
     "language": "pl",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pl/casino"
-    ],
-    "anchor_texts": [
-      "Kasyno"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/hacksawgaming"
   },
   {
-    "page": "https://www.cloudbet.com/pt-br/casino/[...slug]",
+    "page": "https://www.cloudbet.com/pt-br/casino/studios/hacksawgaming",
     "target_link": "/casino",
     "language": "pt-br",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pt-br/casino"
-    ],
-    "anchor_texts": [
-      "Cassino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/hacksawgaming"
   },
   {
-    "page": "https://www.cloudbet.com/ru/casino/[...slug]",
+    "page": "https://www.cloudbet.com/ru/casino/studios/hacksawgaming",
     "target_link": "/casino",
     "language": "ru",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ru/casino"
-    ],
-    "anchor_texts": [
-      "\u041a\u0430\u0437\u0438\u043d\u043e"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/hacksawgaming"
   },
   {
-    "page": "https://www.cloudbet.com/ro/casino/[...slug]",
+    "page": "https://www.cloudbet.com/ro/casino/studios/hacksawgaming",
     "target_link": "/casino",
     "language": "ro",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ro/casino"
-    ],
-    "anchor_texts": [
-      "Cazino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/hacksawgaming"
   },
   {
-    "page": "https://www.cloudbet.com/ko/casino/[...slug]",
+    "page": "https://www.cloudbet.com/ko/casino/studios/hacksawgaming",
     "target_link": "/casino",
     "language": "ko",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ko/casino"
-    ],
-    "anchor_texts": [
-      "\uce74\uc9c0\ub178"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/hacksawgaming"
   },
   {
-    "page": "https://www.cloudbet.com/ja/casino/[...slug]",
+    "page": "https://www.cloudbet.com/ja/casino/studios/hacksawgaming",
     "target_link": "/casino",
     "language": "ja",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ja/casino"
-    ],
-    "anchor_texts": [
-      "\u30ab\u30b8\u30ce"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/hacksawgaming"
   },
   {
-    "page": "https://www.cloudbet.com/th/casino/[...slug]",
+    "page": "https://www.cloudbet.com/th/casino/studios/hacksawgaming",
     "target_link": "/casino",
     "language": "th",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/th/casino"
-    ],
-    "anchor_texts": [
-      "\u0e04\u0e32\u0e2a\u0e34\u0e42\u0e19"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/hacksawgaming"
   },
   {
-    "page": "https://www.cloudbet.com/vi/casino/[...slug]",
+    "page": "https://www.cloudbet.com/vi/casino/studios/hacksawgaming",
     "target_link": "/casino",
     "language": "vi",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/vi/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/hacksawgaming"
   },
   {
@@ -1668,7 +1372,7 @@
       "/en/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "crypto casino"
     ]
   },
   {
@@ -1681,7 +1385,7 @@
       "/en/casino"
     ],
     "anchor_texts": [
-      "Casino"
+      "crypto casino"
     ],
     "source_page": "https://www.cloudbet.com/en/casino/studios/pragmaticplay"
   },
@@ -1690,13 +1394,9 @@
     "target_link": "/casino",
     "language": "es",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/es/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/pragmaticplay"
   },
   {
@@ -1704,13 +1404,9 @@
     "target_link": "/casino",
     "language": "de",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/de/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/pragmaticplay"
   },
   {
@@ -1718,13 +1414,9 @@
     "target_link": "/casino",
     "language": "it",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/it/casino"
-    ],
-    "anchor_texts": [
-      "Casin\u00f2"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/pragmaticplay"
   },
   {
@@ -1732,13 +1424,9 @@
     "target_link": "/casino",
     "language": "fr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/fr/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/pragmaticplay"
   },
   {
@@ -1746,13 +1434,9 @@
     "target_link": "/casino",
     "language": "sv",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/sv/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/pragmaticplay"
   },
   {
@@ -1760,13 +1444,9 @@
     "target_link": "/casino",
     "language": "hu",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/hu/casino"
-    ],
-    "anchor_texts": [
-      "Kaszin\u00f3"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/pragmaticplay"
   },
   {
@@ -1774,13 +1454,9 @@
     "target_link": "/casino",
     "language": "tr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/tr/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/pragmaticplay"
   },
   {
@@ -1788,13 +1464,9 @@
     "target_link": "/casino",
     "language": "pl",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pl/casino"
-    ],
-    "anchor_texts": [
-      "Kasyno"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/pragmaticplay"
   },
   {
@@ -1802,13 +1474,9 @@
     "target_link": "/casino",
     "language": "pt-br",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pt-br/casino"
-    ],
-    "anchor_texts": [
-      "Cassino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/pragmaticplay"
   },
   {
@@ -1816,13 +1484,9 @@
     "target_link": "/casino",
     "language": "ru",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ru/casino"
-    ],
-    "anchor_texts": [
-      "\u041a\u0430\u0437\u0438\u043d\u043e"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/pragmaticplay"
   },
   {
@@ -1830,13 +1494,9 @@
     "target_link": "/casino",
     "language": "ro",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ro/casino"
-    ],
-    "anchor_texts": [
-      "Cazino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/pragmaticplay"
   },
   {
@@ -1844,13 +1504,9 @@
     "target_link": "/casino",
     "language": "ko",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ko/casino"
-    ],
-    "anchor_texts": [
-      "\uce74\uc9c0\ub178"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/pragmaticplay"
   },
   {
@@ -1858,13 +1514,9 @@
     "target_link": "/casino",
     "language": "ja",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ja/casino"
-    ],
-    "anchor_texts": [
-      "\u30ab\u30b8\u30ce"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/pragmaticplay"
   },
   {
@@ -1872,13 +1524,9 @@
     "target_link": "/casino",
     "language": "th",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/th/casino"
-    ],
-    "anchor_texts": [
-      "\u0e04\u0e32\u0e2a\u0e34\u0e42\u0e19"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/pragmaticplay"
   },
   {
@@ -1886,13 +1534,9 @@
     "target_link": "/casino",
     "language": "vi",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/vi/casino"
-    ],
-    "anchor_texts": [
-      "Casino"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/casino/studios/pragmaticplay"
   },
   {
@@ -1900,26 +1544,18 @@
     "target_link": "/esports",
     "language": "en",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/en/esports"
-    ],
-    "anchor_texts": [
-      "Esports"
-    ]
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": []
   },
   {
     "page": "https://www.cloudbet.com/en/sports/mma",
     "target_link": "/esports",
     "language": "en",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/en/esports"
-    ],
-    "anchor_texts": [
-      "Esports"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -1927,13 +1563,9 @@
     "target_link": "/esports",
     "language": "es",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/es/esports"
-    ],
-    "anchor_texts": [
-      "Deportes electr\u00f3nicos"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -1941,13 +1573,9 @@
     "target_link": "/esports",
     "language": "de",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/de/esports"
-    ],
-    "anchor_texts": [
-      "eSport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -1955,13 +1583,9 @@
     "target_link": "/esports",
     "language": "it",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/it/esports"
-    ],
-    "anchor_texts": [
-      "E-sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -1969,13 +1593,9 @@
     "target_link": "/esports",
     "language": "fr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/fr/esports"
-    ],
-    "anchor_texts": [
-      "eSport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -1983,13 +1603,9 @@
     "target_link": "/esports",
     "language": "sv",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/sv/esports"
-    ],
-    "anchor_texts": [
-      "E-sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -1997,13 +1613,9 @@
     "target_link": "/esports",
     "language": "hu",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/hu/esports"
-    ],
-    "anchor_texts": [
-      "E-sportok"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -2011,13 +1623,9 @@
     "target_link": "/esports",
     "language": "tr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/tr/esports"
-    ],
-    "anchor_texts": [
-      "E-Spor"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -2025,13 +1633,9 @@
     "target_link": "/esports",
     "language": "pl",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pl/esports"
-    ],
-    "anchor_texts": [
-      "E-Sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -2039,13 +1643,9 @@
     "target_link": "/esports",
     "language": "pt-br",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pt-br/esports"
-    ],
-    "anchor_texts": [
-      "eSports"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -2053,13 +1653,9 @@
     "target_link": "/esports",
     "language": "ru",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ru/esports"
-    ],
-    "anchor_texts": [
-      "\u041a\u0438\u0431\u0435\u0440\u0441\u043f\u043e\u0440\u0442"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -2067,13 +1663,9 @@
     "target_link": "/esports",
     "language": "ro",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ro/esports"
-    ],
-    "anchor_texts": [
-      "E-Sporturi"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -2081,13 +1673,9 @@
     "target_link": "/esports",
     "language": "ko",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ko/esports"
-    ],
-    "anchor_texts": [
-      "e\uc2a4\ud3ec\uce20"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -2095,13 +1683,9 @@
     "target_link": "/esports",
     "language": "ja",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ja/esports"
-    ],
-    "anchor_texts": [
-      "e\u30b9\u30dd\u30fc\u30c4"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -2109,13 +1693,9 @@
     "target_link": "/esports",
     "language": "th",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/th/esports"
-    ],
-    "anchor_texts": [
-      "\u0e2d\u0e35\u0e2a\u0e1b\u0e2d\u0e23\u0e4c\u0e15"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -2123,26 +1703,30 @@
     "target_link": "/esports",
     "language": "vi",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/vi/esports"
-    ],
-    "anchor_texts": [
-      "Th\u1ec3 thao \u0111i\u1ec7n t\u1eed"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
     "page": "https://www.cloudbet.com/en/sports/virtuals",
     "target_link": "/esports",
     "language": "en",
+    "status_code": 404,
+    "link_found": null,
+    "error": "page fetch failed"
+  },
+  {
+    "page": "https://www.cloudbet.com/en/sports",
+    "target_link": "/esports",
+    "language": "en",
     "status_code": 200,
     "link_found": true,
     "matches": [
       "/en/esports"
     ],
     "anchor_texts": [
-      "Esports"
+      "esports bitcoin betting"
     ]
   },
   {
@@ -2155,20 +1739,7 @@
       "/en/esports"
     ],
     "anchor_texts": [
-      "Esports"
-    ]
-  },
-  {
-    "page": "https://www.cloudbet.com/en/sports",
-    "target_link": "/esports",
-    "language": "en",
-    "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/en/esports"
-    ],
-    "anchor_texts": [
-      "Esports"
+      "esports bitcoin betting"
     ],
     "source_page": "https://www.cloudbet.com/en/sports"
   },
@@ -2177,13 +1748,9 @@
     "target_link": "/esports",
     "language": "es",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/es/esports"
-    ],
-    "anchor_texts": [
-      "Deportes electr\u00f3nicos"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports"
   },
   {
@@ -2191,13 +1758,9 @@
     "target_link": "/esports",
     "language": "de",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/de/esports"
-    ],
-    "anchor_texts": [
-      "eSport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports"
   },
   {
@@ -2205,13 +1768,9 @@
     "target_link": "/esports",
     "language": "it",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/it/esports"
-    ],
-    "anchor_texts": [
-      "E-sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports"
   },
   {
@@ -2219,13 +1778,9 @@
     "target_link": "/esports",
     "language": "fr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/fr/esports"
-    ],
-    "anchor_texts": [
-      "eSport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports"
   },
   {
@@ -2233,13 +1788,9 @@
     "target_link": "/esports",
     "language": "sv",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/sv/esports"
-    ],
-    "anchor_texts": [
-      "E-sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports"
   },
   {
@@ -2247,13 +1798,9 @@
     "target_link": "/esports",
     "language": "hu",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/hu/esports"
-    ],
-    "anchor_texts": [
-      "E-sportok"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports"
   },
   {
@@ -2261,13 +1808,9 @@
     "target_link": "/esports",
     "language": "tr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/tr/esports"
-    ],
-    "anchor_texts": [
-      "E-Spor"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports"
   },
   {
@@ -2275,13 +1818,9 @@
     "target_link": "/esports",
     "language": "pl",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pl/esports"
-    ],
-    "anchor_texts": [
-      "E-Sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports"
   },
   {
@@ -2289,13 +1828,9 @@
     "target_link": "/esports",
     "language": "pt-br",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pt-br/esports"
-    ],
-    "anchor_texts": [
-      "eSports"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports"
   },
   {
@@ -2303,13 +1838,9 @@
     "target_link": "/esports",
     "language": "ru",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ru/esports"
-    ],
-    "anchor_texts": [
-      "\u041a\u0438\u0431\u0435\u0440\u0441\u043f\u043e\u0440\u0442"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports"
   },
   {
@@ -2317,13 +1848,9 @@
     "target_link": "/esports",
     "language": "ro",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ro/esports"
-    ],
-    "anchor_texts": [
-      "E-Sporturi"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports"
   },
   {
@@ -2331,13 +1858,9 @@
     "target_link": "/esports",
     "language": "ko",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ko/esports"
-    ],
-    "anchor_texts": [
-      "e\uc2a4\ud3ec\uce20"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports"
   },
   {
@@ -2345,13 +1868,9 @@
     "target_link": "/esports",
     "language": "ja",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ja/esports"
-    ],
-    "anchor_texts": [
-      "e\u30b9\u30dd\u30fc\u30c4"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports"
   },
   {
@@ -2359,13 +1878,9 @@
     "target_link": "/esports",
     "language": "th",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/th/esports"
-    ],
-    "anchor_texts": [
-      "\u0e2d\u0e35\u0e2a\u0e1b\u0e2d\u0e23\u0e4c\u0e15"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports"
   },
   {
@@ -2373,13 +1888,9 @@
     "target_link": "/esports",
     "language": "vi",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/vi/esports"
-    ],
-    "anchor_texts": [
-      "Th\u1ec3 thao \u0111i\u1ec7n t\u1eed"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports"
   },
   {
@@ -2392,7 +1903,7 @@
       "/en/esports"
     ],
     "anchor_texts": [
-      "Esports"
+      "esports crypto betting"
     ]
   },
   {
@@ -2405,7 +1916,7 @@
       "/en/esports"
     ],
     "anchor_texts": [
-      "Esports"
+      "esports crypto betting"
     ],
     "source_page": "https://www.cloudbet.com/en/esports/esport-warcraft"
   },
@@ -2419,7 +1930,7 @@
       "/es/esports"
     ],
     "anchor_texts": [
-      "Deportes electr\u00f3nicos"
+      "casa de criptoapuestas para deportes electr\u00f3nicos"
     ],
     "source_page": "https://www.cloudbet.com/en/esports/esport-warcraft"
   },
@@ -2428,13 +1939,9 @@
     "target_link": "/esports",
     "language": "de",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/de/esports"
-    ],
-    "anchor_texts": [
-      "eSport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/esports/esport-warcraft"
   },
   {
@@ -2442,13 +1949,9 @@
     "target_link": "/esports",
     "language": "it",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/it/esports"
-    ],
-    "anchor_texts": [
-      "E-sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/esports/esport-warcraft"
   },
   {
@@ -2456,13 +1959,9 @@
     "target_link": "/esports",
     "language": "fr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/fr/esports"
-    ],
-    "anchor_texts": [
-      "eSport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/esports/esport-warcraft"
   },
   {
@@ -2470,13 +1969,9 @@
     "target_link": "/esports",
     "language": "sv",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/sv/esports"
-    ],
-    "anchor_texts": [
-      "E-sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/esports/esport-warcraft"
   },
   {
@@ -2484,13 +1979,9 @@
     "target_link": "/esports",
     "language": "hu",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/hu/esports"
-    ],
-    "anchor_texts": [
-      "E-sportok"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/esports/esport-warcraft"
   },
   {
@@ -2498,13 +1989,9 @@
     "target_link": "/esports",
     "language": "tr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/tr/esports"
-    ],
-    "anchor_texts": [
-      "E-Spor"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/esports/esport-warcraft"
   },
   {
@@ -2512,13 +1999,9 @@
     "target_link": "/esports",
     "language": "pl",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pl/esports"
-    ],
-    "anchor_texts": [
-      "E-Sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/esports/esport-warcraft"
   },
   {
@@ -2526,13 +2009,9 @@
     "target_link": "/esports",
     "language": "pt-br",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pt-br/esports"
-    ],
-    "anchor_texts": [
-      "eSports"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/esports/esport-warcraft"
   },
   {
@@ -2540,13 +2019,9 @@
     "target_link": "/esports",
     "language": "ru",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ru/esports"
-    ],
-    "anchor_texts": [
-      "\u041a\u0438\u0431\u0435\u0440\u0441\u043f\u043e\u0440\u0442"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/esports/esport-warcraft"
   },
   {
@@ -2554,13 +2029,9 @@
     "target_link": "/esports",
     "language": "ro",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ro/esports"
-    ],
-    "anchor_texts": [
-      "E-Sporturi"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/esports/esport-warcraft"
   },
   {
@@ -2568,13 +2039,9 @@
     "target_link": "/esports",
     "language": "ko",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ko/esports"
-    ],
-    "anchor_texts": [
-      "e\uc2a4\ud3ec\uce20"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/esports/esport-warcraft"
   },
   {
@@ -2582,13 +2049,9 @@
     "target_link": "/esports",
     "language": "ja",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ja/esports"
-    ],
-    "anchor_texts": [
-      "e\u30b9\u30dd\u30fc\u30c4"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/esports/esport-warcraft"
   },
   {
@@ -2596,13 +2059,9 @@
     "target_link": "/esports",
     "language": "th",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/th/esports"
-    ],
-    "anchor_texts": [
-      "\u0e2d\u0e35\u0e2a\u0e1b\u0e2d\u0e23\u0e4c\u0e15"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/esports/esport-warcraft"
   },
   {
@@ -2610,13 +2069,9 @@
     "target_link": "/esports",
     "language": "vi",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/vi/esports"
-    ],
-    "anchor_texts": [
-      "Th\u1ec3 thao \u0111i\u1ec7n t\u1eed"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/esports/esport-warcraft"
   },
   {
@@ -2629,7 +2084,7 @@
       "/en/esports"
     ],
     "anchor_texts": [
-      "Esports"
+      "crypto esports betting"
     ]
   },
   {
@@ -2642,7 +2097,7 @@
       "/en/esports"
     ],
     "anchor_texts": [
-      "Esports"
+      "crypto esports betting"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/squash"
   },
@@ -2656,7 +2111,7 @@
       "/es/esports"
     ],
     "anchor_texts": [
-      "Deportes electr\u00f3nicos"
+      "criptoapuestas en deportes electr\u00f3nicos"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/squash"
   },
@@ -2665,13 +2120,9 @@
     "target_link": "/esports",
     "language": "de",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/de/esports"
-    ],
-    "anchor_texts": [
-      "eSport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/squash"
   },
   {
@@ -2684,7 +2135,7 @@
       "/it/esports"
     ],
     "anchor_texts": [
-      "E-sport"
+      "scommesse sugli e-sport in criptovaluta"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/squash"
   },
@@ -2693,13 +2144,9 @@
     "target_link": "/esports",
     "language": "fr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/fr/esports"
-    ],
-    "anchor_texts": [
-      "eSport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/squash"
   },
   {
@@ -2707,13 +2154,9 @@
     "target_link": "/esports",
     "language": "sv",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/sv/esports"
-    ],
-    "anchor_texts": [
-      "E-sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/squash"
   },
   {
@@ -2721,13 +2164,9 @@
     "target_link": "/esports",
     "language": "hu",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/hu/esports"
-    ],
-    "anchor_texts": [
-      "E-sportok"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/squash"
   },
   {
@@ -2735,13 +2174,9 @@
     "target_link": "/esports",
     "language": "tr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/tr/esports"
-    ],
-    "anchor_texts": [
-      "E-Spor"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/squash"
   },
   {
@@ -2749,13 +2184,9 @@
     "target_link": "/esports",
     "language": "pl",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pl/esports"
-    ],
-    "anchor_texts": [
-      "E-Sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/squash"
   },
   {
@@ -2763,13 +2194,9 @@
     "target_link": "/esports",
     "language": "pt-br",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pt-br/esports"
-    ],
-    "anchor_texts": [
-      "eSports"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/squash"
   },
   {
@@ -2777,13 +2204,9 @@
     "target_link": "/esports",
     "language": "ru",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ru/esports"
-    ],
-    "anchor_texts": [
-      "\u041a\u0438\u0431\u0435\u0440\u0441\u043f\u043e\u0440\u0442"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/squash"
   },
   {
@@ -2791,13 +2214,9 @@
     "target_link": "/esports",
     "language": "ro",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ro/esports"
-    ],
-    "anchor_texts": [
-      "E-Sporturi"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/squash"
   },
   {
@@ -2805,13 +2224,9 @@
     "target_link": "/esports",
     "language": "ko",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ko/esports"
-    ],
-    "anchor_texts": [
-      "e\uc2a4\ud3ec\uce20"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/squash"
   },
   {
@@ -2819,13 +2234,9 @@
     "target_link": "/esports",
     "language": "ja",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ja/esports"
-    ],
-    "anchor_texts": [
-      "e\u30b9\u30dd\u30fc\u30c4"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/squash"
   },
   {
@@ -2833,13 +2244,9 @@
     "target_link": "/esports",
     "language": "th",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/th/esports"
-    ],
-    "anchor_texts": [
-      "\u0e2d\u0e35\u0e2a\u0e1b\u0e2d\u0e23\u0e4c\u0e15"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/squash"
   },
   {
@@ -2847,13 +2254,9 @@
     "target_link": "/esports",
     "language": "vi",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/vi/esports"
-    ],
-    "anchor_texts": [
-      "Th\u1ec3 thao \u0111i\u1ec7n t\u1eed"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/squash"
   },
   {
@@ -2866,7 +2269,7 @@
       "/en/esports"
     ],
     "anchor_texts": [
-      "Esports"
+      "Bitcoin for sports and esports betting"
     ]
   },
   {
@@ -2879,7 +2282,7 @@
       "/en/esports"
     ],
     "anchor_texts": [
-      "Esports"
+      "Bitcoin for sports and esports betting"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/snooker"
   },
@@ -2893,7 +2296,7 @@
       "/es/esports"
     ],
     "anchor_texts": [
-      "Deportes electr\u00f3nicos"
+      "Bitcoin para apostar en deportes y deportes electr\u00f3nicos"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/snooker"
   },
@@ -2907,7 +2310,7 @@
       "/de/esports"
     ],
     "anchor_texts": [
-      "eSport"
+      "Bitcoin f\u00fcr Sport- und eSport-Wetten"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/snooker"
   },
@@ -2921,7 +2324,7 @@
       "/it/esports"
     ],
     "anchor_texts": [
-      "E-sport"
+      "Bitcoin per le scommesse su sport ed e-sport"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/snooker"
   },
@@ -2930,13 +2333,9 @@
     "target_link": "/esports",
     "language": "fr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/fr/esports"
-    ],
-    "anchor_texts": [
-      "eSport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/snooker"
   },
   {
@@ -2944,13 +2343,9 @@
     "target_link": "/esports",
     "language": "sv",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/sv/esports"
-    ],
-    "anchor_texts": [
-      "E-sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/snooker"
   },
   {
@@ -2958,13 +2353,9 @@
     "target_link": "/esports",
     "language": "hu",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/hu/esports"
-    ],
-    "anchor_texts": [
-      "E-sportok"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/snooker"
   },
   {
@@ -2972,13 +2363,9 @@
     "target_link": "/esports",
     "language": "tr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/tr/esports"
-    ],
-    "anchor_texts": [
-      "E-Spor"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/snooker"
   },
   {
@@ -2986,13 +2373,9 @@
     "target_link": "/esports",
     "language": "pl",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pl/esports"
-    ],
-    "anchor_texts": [
-      "E-Sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/snooker"
   },
   {
@@ -3000,13 +2383,9 @@
     "target_link": "/esports",
     "language": "pt-br",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pt-br/esports"
-    ],
-    "anchor_texts": [
-      "eSports"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/snooker"
   },
   {
@@ -3014,13 +2393,9 @@
     "target_link": "/esports",
     "language": "ru",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ru/esports"
-    ],
-    "anchor_texts": [
-      "\u041a\u0438\u0431\u0435\u0440\u0441\u043f\u043e\u0440\u0442"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/snooker"
   },
   {
@@ -3028,13 +2403,9 @@
     "target_link": "/esports",
     "language": "ro",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ro/esports"
-    ],
-    "anchor_texts": [
-      "E-Sporturi"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/snooker"
   },
   {
@@ -3042,13 +2413,9 @@
     "target_link": "/esports",
     "language": "ko",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ko/esports"
-    ],
-    "anchor_texts": [
-      "e\uc2a4\ud3ec\uce20"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/snooker"
   },
   {
@@ -3056,13 +2423,9 @@
     "target_link": "/esports",
     "language": "ja",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ja/esports"
-    ],
-    "anchor_texts": [
-      "e\u30b9\u30dd\u30fc\u30c4"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/snooker"
   },
   {
@@ -3070,13 +2433,9 @@
     "target_link": "/esports",
     "language": "th",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/th/esports"
-    ],
-    "anchor_texts": [
-      "\u0e2d\u0e35\u0e2a\u0e1b\u0e2d\u0e23\u0e4c\u0e15"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/snooker"
   },
   {
@@ -3084,13 +2443,9 @@
     "target_link": "/esports",
     "language": "vi",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/vi/esports"
-    ],
-    "anchor_texts": [
-      "Th\u1ec3 thao \u0111i\u1ec7n t\u1eed"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/snooker"
   },
   {
@@ -3103,7 +2458,7 @@
       "/en/esports"
     ],
     "anchor_texts": [
-      "Esports"
+      "Bitcoin esports betting"
     ]
   },
   {
@@ -3116,7 +2471,7 @@
       "/en/esports"
     ],
     "anchor_texts": [
-      "Esports"
+      "Bitcoin esports betting"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/motorsport"
   },
@@ -3130,7 +2485,7 @@
       "/es/esports"
     ],
     "anchor_texts": [
-      "Deportes electr\u00f3nicos"
+      "apuestas con Bitcoin en deportes electr\u00f3nicos"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/motorsport"
   },
@@ -3144,7 +2499,7 @@
       "/de/esports"
     ],
     "anchor_texts": [
-      "eSport"
+      "Bitcoin-eSport-Wetten"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/motorsport"
   },
@@ -3158,7 +2513,7 @@
       "/it/esports"
     ],
     "anchor_texts": [
-      "E-sport"
+      "scommesse sugli e-sport in Bitcoin"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/motorsport"
   },
@@ -3167,13 +2522,9 @@
     "target_link": "/esports",
     "language": "fr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/fr/esports"
-    ],
-    "anchor_texts": [
-      "eSport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/motorsport"
   },
   {
@@ -3181,13 +2532,9 @@
     "target_link": "/esports",
     "language": "sv",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/sv/esports"
-    ],
-    "anchor_texts": [
-      "E-sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/motorsport"
   },
   {
@@ -3195,13 +2542,9 @@
     "target_link": "/esports",
     "language": "hu",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/hu/esports"
-    ],
-    "anchor_texts": [
-      "E-sportok"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/motorsport"
   },
   {
@@ -3209,13 +2552,9 @@
     "target_link": "/esports",
     "language": "tr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/tr/esports"
-    ],
-    "anchor_texts": [
-      "E-Spor"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/motorsport"
   },
   {
@@ -3223,13 +2562,9 @@
     "target_link": "/esports",
     "language": "pl",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pl/esports"
-    ],
-    "anchor_texts": [
-      "E-Sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/motorsport"
   },
   {
@@ -3237,13 +2572,9 @@
     "target_link": "/esports",
     "language": "pt-br",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pt-br/esports"
-    ],
-    "anchor_texts": [
-      "eSports"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/motorsport"
   },
   {
@@ -3251,13 +2582,9 @@
     "target_link": "/esports",
     "language": "ru",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ru/esports"
-    ],
-    "anchor_texts": [
-      "\u041a\u0438\u0431\u0435\u0440\u0441\u043f\u043e\u0440\u0442"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/motorsport"
   },
   {
@@ -3265,13 +2592,9 @@
     "target_link": "/esports",
     "language": "ro",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ro/esports"
-    ],
-    "anchor_texts": [
-      "E-Sporturi"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/motorsport"
   },
   {
@@ -3279,13 +2602,9 @@
     "target_link": "/esports",
     "language": "ko",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ko/esports"
-    ],
-    "anchor_texts": [
-      "e\uc2a4\ud3ec\uce20"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/motorsport"
   },
   {
@@ -3293,13 +2612,9 @@
     "target_link": "/esports",
     "language": "ja",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ja/esports"
-    ],
-    "anchor_texts": [
-      "e\u30b9\u30dd\u30fc\u30c4"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/motorsport"
   },
   {
@@ -3307,13 +2622,9 @@
     "target_link": "/esports",
     "language": "th",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/th/esports"
-    ],
-    "anchor_texts": [
-      "\u0e2d\u0e35\u0e2a\u0e1b\u0e2d\u0e23\u0e4c\u0e15"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/motorsport"
   },
   {
@@ -3321,13 +2632,9 @@
     "target_link": "/esports",
     "language": "vi",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/vi/esports"
-    ],
-    "anchor_texts": [
-      "Th\u1ec3 thao \u0111i\u1ec7n t\u1eed"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/motorsport"
   },
   {
@@ -3335,26 +2642,18 @@
     "target_link": "/sports",
     "language": "en",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/en/sports"
-    ],
-    "anchor_texts": [
-      "Sports"
-    ]
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": []
   },
   {
     "page": "https://www.cloudbet.com/en/sports/mma",
     "target_link": "/sports",
     "language": "en",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/en/sports"
-    ],
-    "anchor_texts": [
-      "Sports"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -3362,13 +2661,9 @@
     "target_link": "/sports",
     "language": "es",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/es/sports"
-    ],
-    "anchor_texts": [
-      "Deportes"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -3376,13 +2671,9 @@
     "target_link": "/sports",
     "language": "de",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/de/sports"
-    ],
-    "anchor_texts": [
-      "Sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -3390,13 +2681,9 @@
     "target_link": "/sports",
     "language": "it",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/it/sports"
-    ],
-    "anchor_texts": [
-      "Sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -3404,13 +2691,9 @@
     "target_link": "/sports",
     "language": "fr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/fr/sports"
-    ],
-    "anchor_texts": [
-      "Sports"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -3418,13 +2701,9 @@
     "target_link": "/sports",
     "language": "sv",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/sv/sports"
-    ],
-    "anchor_texts": [
-      "Sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -3432,13 +2711,9 @@
     "target_link": "/sports",
     "language": "hu",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/hu/sports"
-    ],
-    "anchor_texts": [
-      "Sportok"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -3446,13 +2721,9 @@
     "target_link": "/sports",
     "language": "tr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/tr/sports"
-    ],
-    "anchor_texts": [
-      "Spor"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -3460,13 +2731,9 @@
     "target_link": "/sports",
     "language": "pl",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pl/sports"
-    ],
-    "anchor_texts": [
-      "Sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -3474,13 +2741,9 @@
     "target_link": "/sports",
     "language": "pt-br",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pt-br/sports"
-    ],
-    "anchor_texts": [
-      "Esportes"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -3488,13 +2751,9 @@
     "target_link": "/sports",
     "language": "ru",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ru/sports"
-    ],
-    "anchor_texts": [
-      "\u0421\u043f\u043e\u0440\u0442"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -3502,13 +2761,9 @@
     "target_link": "/sports",
     "language": "ro",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ro/sports"
-    ],
-    "anchor_texts": [
-      "Sporturi"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -3516,13 +2771,9 @@
     "target_link": "/sports",
     "language": "ko",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ko/sports"
-    ],
-    "anchor_texts": [
-      "\uc2a4\ud3ec\uce20"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -3530,13 +2781,9 @@
     "target_link": "/sports",
     "language": "ja",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ja/sports"
-    ],
-    "anchor_texts": [
-      "\u30b9\u30dd\u30fc\u30c4"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -3544,13 +2791,9 @@
     "target_link": "/sports",
     "language": "th",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/th/sports"
-    ],
-    "anchor_texts": [
-      "\u0e01\u0e35\u0e2c\u0e32"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -3558,13 +2801,9 @@
     "target_link": "/sports",
     "language": "vi",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/vi/sports"
-    ],
-    "anchor_texts": [
-      "Th\u1ec3 thao"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/mma"
   },
   {
@@ -3577,7 +2816,7 @@
       "/en/sports"
     ],
     "anchor_texts": [
-      "Sports"
+      "Bitcoin sportsbook"
     ]
   },
   {
@@ -3590,7 +2829,7 @@
       "/en/sports"
     ],
     "anchor_texts": [
-      "Sports"
+      "Bitcoin sportsbook"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/olympics"
   },
@@ -3604,7 +2843,7 @@
       "/es/sports"
     ],
     "anchor_texts": [
-      "Deportes"
+      "casa de apuestas deportivas Bitcoin"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/olympics"
   },
@@ -3618,7 +2857,7 @@
       "/de/sports"
     ],
     "anchor_texts": [
-      "Sport"
+      "Bitcoin-Sportwetten"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/olympics"
   },
@@ -3632,7 +2871,7 @@
       "/it/sports"
     ],
     "anchor_texts": [
-      "Sport"
+      "sito di scommesse per Bitcoin"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/olympics"
   },
@@ -3646,7 +2885,7 @@
       "/fr/sports"
     ],
     "anchor_texts": [
-      "Sports"
+      "paris sportifs Bitcoin"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/olympics"
   },
@@ -3660,7 +2899,7 @@
       "/sv/sports"
     ],
     "anchor_texts": [
-      "Sport"
+      "Bitcoin-spelsida"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/olympics"
   },
@@ -3674,7 +2913,7 @@
       "/hu/sports"
     ],
     "anchor_texts": [
-      "Sportok"
+      "Bitcoin sportfogad\u00f3"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/olympics"
   },
@@ -3688,7 +2927,7 @@
       "/tr/sports"
     ],
     "anchor_texts": [
-      "Spor"
+      "Bitcoin spor bahisleri sitesi"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/olympics"
   },
@@ -3702,7 +2941,7 @@
       "/pl/sports"
     ],
     "anchor_texts": [
-      "Sport"
+      "zak\u0142ady sportowe w bitcoinach"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/olympics"
   },
@@ -3716,7 +2955,7 @@
       "/pt-br/sports"
     ],
     "anchor_texts": [
-      "Esportes"
+      "casa de apostas esportivas com Bitcoin"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/olympics"
   },
@@ -3730,7 +2969,7 @@
       "/ru/sports"
     ],
     "anchor_texts": [
-      "\u0421\u043f\u043e\u0440\u0442"
+      "\u0431\u0438\u0442\u043a\u043e\u0438\u043d-\u0431\u0443\u043a\u043c\u0435\u043a\u0435\u0440\u043e\u043c"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/olympics"
   },
@@ -3739,13 +2978,9 @@
     "target_link": "/sports",
     "language": "ro",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ro/sports"
-    ],
-    "anchor_texts": [
-      "Sporturi"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/olympics"
   },
   {
@@ -3758,7 +2993,7 @@
       "/ko/sports"
     ],
     "anchor_texts": [
-      "\uc2a4\ud3ec\uce20"
+      "\ube44\ud2b8\ucf54\uc778 \uc2a4\ud3ec\uce20\ubd81\uc758"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/olympics"
   },
@@ -3772,7 +3007,7 @@
       "/ja/sports"
     ],
     "anchor_texts": [
-      "\u30b9\u30dd\u30fc\u30c4"
+      "\u30d3\u30c3\u30c8\u30b3\u30a4\u30f3\u30b9\u30dd\u30fc\u30c4\u30d6\u30c3\u30af"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/olympics"
   },
@@ -3786,7 +3021,7 @@
       "/th/sports"
     ],
     "anchor_texts": [
-      "\u0e01\u0e35\u0e2c\u0e32"
+      "\u0e2a\u0e1b\u0e2d\u0e23\u0e4c\u0e15\u0e1a\u0e38\u0e4a\u0e04 Bitcoin"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/olympics"
   },
@@ -3800,7 +3035,7 @@
       "/vi/sports"
     ],
     "anchor_texts": [
-      "Th\u1ec3 thao"
+      "sportsbook Bitcoin"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/olympics"
   },
@@ -3822,7 +3057,7 @@
       "/en/sports"
     ],
     "anchor_texts": [
-      "Sports"
+      "Cryptocurrency sports betting"
     ]
   },
   {
@@ -3835,7 +3070,7 @@
       "/en/sports"
     ],
     "anchor_texts": [
-      "Sports"
+      "Cryptocurrency sports betting"
     ],
     "source_page": "https://www.cloudbet.com/en/esports"
   },
@@ -3849,7 +3084,7 @@
       "/es/sports"
     ],
     "anchor_texts": [
-      "Deportes"
+      "apuestas deportivas con criptomonedas"
     ],
     "source_page": "https://www.cloudbet.com/en/esports"
   },
@@ -3863,7 +3098,7 @@
       "/de/sports"
     ],
     "anchor_texts": [
-      "Sport"
+      "Sportwetten mit Kryptow\u00e4hrung"
     ],
     "source_page": "https://www.cloudbet.com/en/esports"
   },
@@ -3877,7 +3112,7 @@
       "/it/sports"
     ],
     "anchor_texts": [
-      "Sport"
+      "scommesse sportive in criptovaluta"
     ],
     "source_page": "https://www.cloudbet.com/en/esports"
   },
@@ -3891,7 +3126,7 @@
       "/fr/sports"
     ],
     "anchor_texts": [
-      "Sports"
+      "paris sportifs en cryptomonnaie"
     ],
     "source_page": "https://www.cloudbet.com/en/esports"
   },
@@ -3905,7 +3140,7 @@
       "/sv/sports"
     ],
     "anchor_texts": [
-      "Sport"
+      "Sportbetting med kryptovaluta"
     ],
     "source_page": "https://www.cloudbet.com/en/esports"
   },
@@ -3919,7 +3154,7 @@
       "/hu/sports"
     ],
     "anchor_texts": [
-      "Sportok"
+      "kriptovalut\u00e1s sportfogad\u00e1s"
     ],
     "source_page": "https://www.cloudbet.com/en/esports"
   },
@@ -3933,7 +3168,7 @@
       "/tr/sports"
     ],
     "anchor_texts": [
-      "Spor"
+      "Kripto parayla spor bahislerig"
     ],
     "source_page": "https://www.cloudbet.com/en/esports"
   },
@@ -3947,7 +3182,7 @@
       "/pl/sports"
     ],
     "anchor_texts": [
-      "Sport"
+      "Zak\u0142ady sportowe w kryptowalutach"
     ],
     "source_page": "https://www.cloudbet.com/en/esports"
   },
@@ -3961,7 +3196,7 @@
       "/pt-br/sports"
     ],
     "anchor_texts": [
-      "Esportes"
+      "Apostas esportivas com criptomoedas"
     ],
     "source_page": "https://www.cloudbet.com/en/esports"
   },
@@ -3975,7 +3210,7 @@
       "/ru/sports"
     ],
     "anchor_texts": [
-      "\u0421\u043f\u043e\u0440\u0442"
+      "\u0421\u0442\u0430\u0432\u043a\u0438 \u043d\u0430 \u0441\u043f\u043e\u0440\u0442 \u0432 \u043a\u0440\u0438\u043f\u0442\u043e\u0432\u0430\u043b\u044e\u0442\u0435"
     ],
     "source_page": "https://www.cloudbet.com/en/esports"
   },
@@ -3984,13 +3219,9 @@
     "target_link": "/sports",
     "language": "ro",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ro/sports"
-    ],
-    "anchor_texts": [
-      "Sporturi"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/esports"
   },
   {
@@ -4003,7 +3234,7 @@
       "/ko/sports"
     ],
     "anchor_texts": [
-      "\uc2a4\ud3ec\uce20"
+      "\uc554\ud638\ud654\ud3d0 \uc2a4\ud3ec\uce20 \ubca0\ud305"
     ],
     "source_page": "https://www.cloudbet.com/en/esports"
   },
@@ -4017,7 +3248,7 @@
       "/ja/sports"
     ],
     "anchor_texts": [
-      "\u30b9\u30dd\u30fc\u30c4"
+      "\u4eee\u60f3\u901a\u8ca8\u30b9\u30dd\u30fc\u30c4\u30d9\u30c3\u30c6\u30a3\u30f3\u30b0"
     ],
     "source_page": "https://www.cloudbet.com/en/esports"
   },
@@ -4031,7 +3262,7 @@
       "/th/sports"
     ],
     "anchor_texts": [
-      "\u0e01\u0e35\u0e2c\u0e32"
+      "\u0e01\u0e32\u0e23\u0e40\u0e14\u0e34\u0e21\u0e1e\u0e31\u0e19\u0e01\u0e35\u0e2c\u0e32\u0e14\u0e49\u0e27\u0e22\u0e2a\u0e01\u0e38\u0e25\u0e40\u0e07\u0e34\u0e19\u0e14\u0e34\u0e08\u0e34\u0e17\u0e31\u0e25"
     ],
     "source_page": "https://www.cloudbet.com/en/esports"
   },
@@ -4045,7 +3276,7 @@
       "/vi/sports"
     ],
     "anchor_texts": [
-      "Th\u1ec3 thao"
+      "C\u00e1 c\u01b0\u1ee3c th\u1ec3 thao ti\u1ec1n \u0111i\u1ec7n t\u1eed"
     ],
     "source_page": "https://www.cloudbet.com/en/esports"
   },
@@ -4059,7 +3290,7 @@
       "/en/sports"
     ],
     "anchor_texts": [
-      "Sports"
+      "bitcoin sportsbook"
     ]
   },
   {
@@ -4072,7 +3303,7 @@
       "/en/sports"
     ],
     "anchor_texts": [
-      "Sports"
+      "bitcoin sportsbook"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/american-football/usa-nfl"
   },
@@ -4086,7 +3317,7 @@
       "/es/sports"
     ],
     "anchor_texts": [
-      "Deportes"
+      "la casa de apuestas Bitcoin"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/american-football/usa-nfl"
   },
@@ -4100,7 +3331,7 @@
       "/de/sports"
     ],
     "anchor_texts": [
-      "Sport"
+      "Bitcoin-Sportwetten"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/american-football/usa-nfl"
   },
@@ -4114,7 +3345,7 @@
       "/it/sports"
     ],
     "anchor_texts": [
-      "Sport"
+      "sito di scommesse per Bitcoin"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/american-football/usa-nfl"
   },
@@ -4128,7 +3359,7 @@
       "/fr/sports"
     ],
     "anchor_texts": [
-      "Sports"
+      "site de paris sportifs Bitcoin"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/american-football/usa-nfl"
   },
@@ -4137,13 +3368,9 @@
     "target_link": "/sports",
     "language": "sv",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/sv/sports"
-    ],
-    "anchor_texts": [
-      "Sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/american-football/usa-nfl"
   },
   {
@@ -4156,7 +3383,7 @@
       "/hu/sports"
     ],
     "anchor_texts": [
-      "Sportok"
+      "Bitcoin sportfogad\u00f3j\u00e1val"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/american-football/usa-nfl"
   },
@@ -4170,7 +3397,7 @@
       "/tr/sports"
     ],
     "anchor_texts": [
-      "Spor"
+      "Bitcoin spor bahisleri sitesi"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/american-football/usa-nfl"
   },
@@ -4184,7 +3411,7 @@
       "/pl/sports"
     ],
     "anchor_texts": [
-      "Sport"
+      "zak\u0142ady sportowe w bitcoinach"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/american-football/usa-nfl"
   },
@@ -4198,7 +3425,7 @@
       "/pt-br/sports"
     ],
     "anchor_texts": [
-      "Esportes"
+      "casa de apostas esportivas em Bitcoin"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/american-football/usa-nfl"
   },
@@ -4212,7 +3439,7 @@
       "/ru/sports"
     ],
     "anchor_texts": [
-      "\u0421\u043f\u043e\u0440\u0442"
+      "\u0431\u0438\u0442\u043a\u043e\u0438\u043d-\u0431\u0443\u043a\u043c\u0435\u043a\u0435\u0440\u043e\u043c"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/american-football/usa-nfl"
   },
@@ -4221,13 +3448,9 @@
     "target_link": "/sports",
     "language": "ro",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ro/sports"
-    ],
-    "anchor_texts": [
-      "Sporturi"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/american-football/usa-nfl"
   },
   {
@@ -4240,7 +3463,7 @@
       "/ko/sports"
     ],
     "anchor_texts": [
-      "\uc2a4\ud3ec\uce20"
+      "\ube44\ud2b8\ucf54\uc778 \uc2a4\ud3ec\uce20\ubd81"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/american-football/usa-nfl"
   },
@@ -4254,7 +3477,7 @@
       "/ja/sports"
     ],
     "anchor_texts": [
-      "\u30b9\u30dd\u30fc\u30c4"
+      "\u30d3\u30c3\u30c8\u30b3\u30a4\u30f3\u30b9\u30dd\u30fc\u30c4\u30d6\u30c3\u30af"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/american-football/usa-nfl"
   },
@@ -4268,7 +3491,7 @@
       "/th/sports"
     ],
     "anchor_texts": [
-      "\u0e01\u0e35\u0e2c\u0e32"
+      "\u0e2a\u0e1b\u0e2d\u0e23\u0e4c\u0e15\u0e1a\u0e38\u0e4a\u0e04 Bitcoin"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/american-football/usa-nfl"
   },
@@ -4282,7 +3505,7 @@
       "/vi/sports"
     ],
     "anchor_texts": [
-      "Th\u1ec3 thao"
+      "sportsbook bitcoin"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/american-football/usa-nfl"
   },
@@ -4296,7 +3519,184 @@
       "/en/sports"
     ],
     "anchor_texts": [
-      "Sports"
+      "Bitcoin sports betting"
+    ]
+  },
+  {
+    "page": "https://www.cloudbet.com/en/sports/aussie-rules/australia-afl",
+    "target_link": "/sports",
+    "language": "en",
+    "status_code": 200,
+    "link_found": true,
+    "matches": [
+      "/en/sports"
+    ],
+    "anchor_texts": [
+      "Bitcoin sports betting"
+    ],
+    "source_page": "https://www.cloudbet.com/en/sports/aussie-rules/australia-afl"
+  },
+  {
+    "page": "https://www.cloudbet.com/es/sports/aussie-rules/australia-afl",
+    "target_link": "/sports",
+    "language": "es",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/aussie-rules/australia-afl"
+  },
+  {
+    "page": "https://www.cloudbet.com/de/sports/aussie-rules/australia-afl",
+    "target_link": "/sports",
+    "language": "de",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/aussie-rules/australia-afl"
+  },
+  {
+    "page": "https://www.cloudbet.com/it/sports/aussie-rules/australia-afl",
+    "target_link": "/sports",
+    "language": "it",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/aussie-rules/australia-afl"
+  },
+  {
+    "page": "https://www.cloudbet.com/fr/sports/aussie-rules/australia-afl",
+    "target_link": "/sports",
+    "language": "fr",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/aussie-rules/australia-afl"
+  },
+  {
+    "page": "https://www.cloudbet.com/sv/sports/aussie-rules/australia-afl",
+    "target_link": "/sports",
+    "language": "sv",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/aussie-rules/australia-afl"
+  },
+  {
+    "page": "https://www.cloudbet.com/hu/sports/aussie-rules/australia-afl",
+    "target_link": "/sports",
+    "language": "hu",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/aussie-rules/australia-afl"
+  },
+  {
+    "page": "https://www.cloudbet.com/tr/sports/aussie-rules/australia-afl",
+    "target_link": "/sports",
+    "language": "tr",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/aussie-rules/australia-afl"
+  },
+  {
+    "page": "https://www.cloudbet.com/pl/sports/aussie-rules/australia-afl",
+    "target_link": "/sports",
+    "language": "pl",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/aussie-rules/australia-afl"
+  },
+  {
+    "page": "https://www.cloudbet.com/pt-br/sports/aussie-rules/australia-afl",
+    "target_link": "/sports",
+    "language": "pt-br",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/aussie-rules/australia-afl"
+  },
+  {
+    "page": "https://www.cloudbet.com/ru/sports/aussie-rules/australia-afl",
+    "target_link": "/sports",
+    "language": "ru",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/aussie-rules/australia-afl"
+  },
+  {
+    "page": "https://www.cloudbet.com/ro/sports/aussie-rules/australia-afl",
+    "target_link": "/sports",
+    "language": "ro",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/aussie-rules/australia-afl"
+  },
+  {
+    "page": "https://www.cloudbet.com/ko/sports/aussie-rules/australia-afl",
+    "target_link": "/sports",
+    "language": "ko",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/aussie-rules/australia-afl"
+  },
+  {
+    "page": "https://www.cloudbet.com/ja/sports/aussie-rules/australia-afl",
+    "target_link": "/sports",
+    "language": "ja",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/aussie-rules/australia-afl"
+  },
+  {
+    "page": "https://www.cloudbet.com/th/sports/aussie-rules/australia-afl",
+    "target_link": "/sports",
+    "language": "th",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/aussie-rules/australia-afl"
+  },
+  {
+    "page": "https://www.cloudbet.com/vi/sports/aussie-rules/australia-afl",
+    "target_link": "/sports",
+    "language": "vi",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/aussie-rules/australia-afl"
+  },
+  {
+    "page": "https://www.cloudbet.com/en/sports/baseball/japan-t903c-npb",
+    "target_link": "/sports",
+    "language": "en",
+    "status_code": 200,
+    "link_found": true,
+    "matches": [
+      "/en/sports"
+    ],
+    "anchor_texts": [
+      "crypto sportsbook"
     ]
   },
   {
@@ -4309,20 +3709,7 @@
       "/en/sports"
     ],
     "anchor_texts": [
-      "Sports"
-    ]
-  },
-  {
-    "page": "https://www.cloudbet.com/en/sports/baseball/japan-t903c-npb",
-    "target_link": "/sports",
-    "language": "en",
-    "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/en/sports"
-    ],
-    "anchor_texts": [
-      "Sports"
+      "crypto sportsbook"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/baseball/japan-t903c-npb"
   },
@@ -4331,13 +3718,9 @@
     "target_link": "/sports",
     "language": "es",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/es/sports"
-    ],
-    "anchor_texts": [
-      "Deportes"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/baseball/japan-t903c-npb"
   },
   {
@@ -4345,13 +3728,9 @@
     "target_link": "/sports",
     "language": "de",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/de/sports"
-    ],
-    "anchor_texts": [
-      "Sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/baseball/japan-t903c-npb"
   },
   {
@@ -4359,13 +3738,9 @@
     "target_link": "/sports",
     "language": "it",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/it/sports"
-    ],
-    "anchor_texts": [
-      "Sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/baseball/japan-t903c-npb"
   },
   {
@@ -4373,13 +3748,9 @@
     "target_link": "/sports",
     "language": "fr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/fr/sports"
-    ],
-    "anchor_texts": [
-      "Sports"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/baseball/japan-t903c-npb"
   },
   {
@@ -4387,13 +3758,9 @@
     "target_link": "/sports",
     "language": "sv",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/sv/sports"
-    ],
-    "anchor_texts": [
-      "Sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/baseball/japan-t903c-npb"
   },
   {
@@ -4401,13 +3768,9 @@
     "target_link": "/sports",
     "language": "hu",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/hu/sports"
-    ],
-    "anchor_texts": [
-      "Sportok"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/baseball/japan-t903c-npb"
   },
   {
@@ -4415,13 +3778,9 @@
     "target_link": "/sports",
     "language": "tr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/tr/sports"
-    ],
-    "anchor_texts": [
-      "Spor"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/baseball/japan-t903c-npb"
   },
   {
@@ -4429,13 +3788,9 @@
     "target_link": "/sports",
     "language": "pl",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pl/sports"
-    ],
-    "anchor_texts": [
-      "Sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/baseball/japan-t903c-npb"
   },
   {
@@ -4443,13 +3798,9 @@
     "target_link": "/sports",
     "language": "pt-br",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pt-br/sports"
-    ],
-    "anchor_texts": [
-      "Esportes"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/baseball/japan-t903c-npb"
   },
   {
@@ -4457,13 +3808,9 @@
     "target_link": "/sports",
     "language": "ru",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ru/sports"
-    ],
-    "anchor_texts": [
-      "\u0421\u043f\u043e\u0440\u0442"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/baseball/japan-t903c-npb"
   },
   {
@@ -4471,13 +3818,9 @@
     "target_link": "/sports",
     "language": "ro",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ro/sports"
-    ],
-    "anchor_texts": [
-      "Sporturi"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/baseball/japan-t903c-npb"
   },
   {
@@ -4485,13 +3828,9 @@
     "target_link": "/sports",
     "language": "ko",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ko/sports"
-    ],
-    "anchor_texts": [
-      "\uc2a4\ud3ec\uce20"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/baseball/japan-t903c-npb"
   },
   {
@@ -4504,7 +3843,7 @@
       "/ja/sports"
     ],
     "anchor_texts": [
-      "\u30b9\u30dd\u30fc\u30c4"
+      "\u4eee\u60f3\u901a\u8ca8\u30b9\u30dd\u30fc\u30c4\u30d6\u30c3\u30af"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/baseball/japan-t903c-npb"
   },
@@ -4513,13 +3852,9 @@
     "target_link": "/sports",
     "language": "th",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/th/sports"
-    ],
-    "anchor_texts": [
-      "\u0e01\u0e35\u0e2c\u0e32"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/baseball/japan-t903c-npb"
   },
   {
@@ -4527,13 +3862,9 @@
     "target_link": "/sports",
     "language": "vi",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/vi/sports"
-    ],
-    "anchor_texts": [
-      "Th\u1ec3 thao"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/baseball/japan-t903c-npb"
   },
   {
@@ -4541,12 +3872,181 @@
     "target_link": "/sports",
     "language": "en",
     "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": []
+  },
+  {
+    "page": "https://www.cloudbet.com/en/sports/mma/international-pfl",
+    "target_link": "/sports",
+    "language": "en",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/mma/international-pfl"
+  },
+  {
+    "page": "https://www.cloudbet.com/es/sports/mma/international-pfl",
+    "target_link": "/sports",
+    "language": "es",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/mma/international-pfl"
+  },
+  {
+    "page": "https://www.cloudbet.com/de/sports/mma/international-pfl",
+    "target_link": "/sports",
+    "language": "de",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/mma/international-pfl"
+  },
+  {
+    "page": "https://www.cloudbet.com/it/sports/mma/international-pfl",
+    "target_link": "/sports",
+    "language": "it",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/mma/international-pfl"
+  },
+  {
+    "page": "https://www.cloudbet.com/fr/sports/mma/international-pfl",
+    "target_link": "/sports",
+    "language": "fr",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/mma/international-pfl"
+  },
+  {
+    "page": "https://www.cloudbet.com/sv/sports/mma/international-pfl",
+    "target_link": "/sports",
+    "language": "sv",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/mma/international-pfl"
+  },
+  {
+    "page": "https://www.cloudbet.com/hu/sports/mma/international-pfl",
+    "target_link": "/sports",
+    "language": "hu",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/mma/international-pfl"
+  },
+  {
+    "page": "https://www.cloudbet.com/tr/sports/mma/international-pfl",
+    "target_link": "/sports",
+    "language": "tr",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/mma/international-pfl"
+  },
+  {
+    "page": "https://www.cloudbet.com/pl/sports/mma/international-pfl",
+    "target_link": "/sports",
+    "language": "pl",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/mma/international-pfl"
+  },
+  {
+    "page": "https://www.cloudbet.com/pt-br/sports/mma/international-pfl",
+    "target_link": "/sports",
+    "language": "pt-br",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/mma/international-pfl"
+  },
+  {
+    "page": "https://www.cloudbet.com/ru/sports/mma/international-pfl",
+    "target_link": "/sports",
+    "language": "ru",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/mma/international-pfl"
+  },
+  {
+    "page": "https://www.cloudbet.com/ro/sports/mma/international-pfl",
+    "target_link": "/sports",
+    "language": "ro",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/mma/international-pfl"
+  },
+  {
+    "page": "https://www.cloudbet.com/ko/sports/mma/international-pfl",
+    "target_link": "/sports",
+    "language": "ko",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/mma/international-pfl"
+  },
+  {
+    "page": "https://www.cloudbet.com/ja/sports/mma/international-pfl",
+    "target_link": "/sports",
+    "language": "ja",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/mma/international-pfl"
+  },
+  {
+    "page": "https://www.cloudbet.com/th/sports/mma/international-pfl",
+    "target_link": "/sports",
+    "language": "th",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/mma/international-pfl"
+  },
+  {
+    "page": "https://www.cloudbet.com/vi/sports/mma/international-pfl",
+    "target_link": "/sports",
+    "language": "vi",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/mma/international-pfl"
+  },
+  {
+    "page": "https://www.cloudbet.com/en/sports/soccer/england-fa-cup",
+    "target_link": "/sports",
+    "language": "en",
+    "status_code": 200,
     "link_found": true,
     "matches": [
       "/en/sports"
     ],
     "anchor_texts": [
-      "Sports"
+      "Betting with cryptocurrency"
     ]
   },
   {
@@ -4559,20 +4059,7 @@
       "/en/sports"
     ],
     "anchor_texts": [
-      "Sports"
-    ]
-  },
-  {
-    "page": "https://www.cloudbet.com/en/sports/soccer/england-fa-cup",
-    "target_link": "/sports",
-    "language": "en",
-    "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/en/sports"
-    ],
-    "anchor_texts": [
-      "Sports"
+      "Betting with cryptocurrency"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-fa-cup"
   },
@@ -4586,7 +4073,7 @@
       "/es/sports"
     ],
     "anchor_texts": [
-      "Deportes"
+      "Apostar con criptomonedas"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-fa-cup"
   },
@@ -4600,7 +4087,7 @@
       "/de/sports"
     ],
     "anchor_texts": [
-      "Sport"
+      "Wetten mit Kryptow\u00e4hrungen"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-fa-cup"
   },
@@ -4614,7 +4101,7 @@
       "/it/sports"
     ],
     "anchor_texts": [
-      "Sport"
+      "scommesse in criptovalute"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-fa-cup"
   },
@@ -4628,7 +4115,7 @@
       "/fr/sports"
     ],
     "anchor_texts": [
-      "Sports"
+      "Parier en cryptomonnaie"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-fa-cup"
   },
@@ -4637,13 +4124,9 @@
     "target_link": "/sports",
     "language": "sv",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/sv/sports"
-    ],
-    "anchor_texts": [
-      "Sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-fa-cup"
   },
   {
@@ -4656,7 +4139,7 @@
       "/hu/sports"
     ],
     "anchor_texts": [
-      "Sportok"
+      "Bitcoinnal vagy Ethereummal t\u00f6rt\u00e9n\u0151 fogad\u00e1s"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-fa-cup"
   },
@@ -4670,7 +4153,7 @@
       "/tr/sports"
     ],
     "anchor_texts": [
-      "Spor"
+      "kripto paralarla bahis yaparak"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-fa-cup"
   },
@@ -4684,7 +4167,7 @@
       "/pl/sports"
     ],
     "anchor_texts": [
-      "Sport"
+      "Obstawiaj\u0105c w kryptowalutach"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-fa-cup"
   },
@@ -4698,7 +4181,7 @@
       "/pt-br/sports"
     ],
     "anchor_texts": [
-      "Esportes"
+      "Apostar com criptomoeda"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-fa-cup"
   },
@@ -4712,7 +4195,7 @@
       "/ru/sports"
     ],
     "anchor_texts": [
-      "\u0421\u043f\u043e\u0440\u0442"
+      "\u0414\u0435\u043b\u0430\u044f \u0441\u0442\u0430\u0432\u043a\u0438 \u0432 \u0442\u0430\u043a\u043e\u0439 \u043a\u0440\u0438\u043f\u0442\u043e\u0432\u0430\u043b\u044e\u0442\u0435"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-fa-cup"
   },
@@ -4721,13 +4204,9 @@
     "target_link": "/sports",
     "language": "ro",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ro/sports"
-    ],
-    "anchor_texts": [
-      "Sporturi"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-fa-cup"
   },
   {
@@ -4740,7 +4219,7 @@
       "/ko/sports"
     ],
     "anchor_texts": [
-      "\uc2a4\ud3ec\uce20"
+      "\uc554\ud638\ud654\ud3d0\ub85c \ubca0\ud305\ud558\uba70"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-fa-cup"
   },
@@ -4754,7 +4233,7 @@
       "/ja/sports"
     ],
     "anchor_texts": [
-      "\u30b9\u30dd\u30fc\u30c4"
+      "\u4eee\u60f3\u901a\u8ca8\u3067\u8ced\u3051\u308c\u3070"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-fa-cup"
   },
@@ -4763,13 +4242,9 @@
     "target_link": "/sports",
     "language": "th",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/th/sports"
-    ],
-    "anchor_texts": [
-      "\u0e01\u0e35\u0e2c\u0e32"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-fa-cup"
   },
   {
@@ -4782,7 +4257,7 @@
       "/vi/sports"
     ],
     "anchor_texts": [
-      "Th\u1ec3 thao"
+      "\u0110\u1eb7t c\u01b0\u1ee3c b\u1eb1ng ti\u1ec1n \u0111i\u1ec7n t\u1eed"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-fa-cup"
   },
@@ -4796,7 +4271,184 @@
       "/en/sports"
     ],
     "anchor_texts": [
-      "Sports"
+      "cryptocurrency sportsbook"
+    ]
+  },
+  {
+    "page": "https://www.cloudbet.com/en/sports/basketball/international-club-friendly-games",
+    "target_link": "/sports",
+    "language": "en",
+    "status_code": 200,
+    "link_found": true,
+    "matches": [
+      "/en/sports"
+    ],
+    "anchor_texts": [
+      "cryptocurrency sportsbook"
+    ],
+    "source_page": "https://www.cloudbet.com/en/sports/basketball/international-club-friendly-games"
+  },
+  {
+    "page": "https://www.cloudbet.com/es/sports/basketball/international-club-friendly-games",
+    "target_link": "/sports",
+    "language": "es",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/basketball/international-club-friendly-games"
+  },
+  {
+    "page": "https://www.cloudbet.com/de/sports/basketball/international-club-friendly-games",
+    "target_link": "/sports",
+    "language": "de",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/basketball/international-club-friendly-games"
+  },
+  {
+    "page": "https://www.cloudbet.com/it/sports/basketball/international-club-friendly-games",
+    "target_link": "/sports",
+    "language": "it",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/basketball/international-club-friendly-games"
+  },
+  {
+    "page": "https://www.cloudbet.com/fr/sports/basketball/international-club-friendly-games",
+    "target_link": "/sports",
+    "language": "fr",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/basketball/international-club-friendly-games"
+  },
+  {
+    "page": "https://www.cloudbet.com/sv/sports/basketball/international-club-friendly-games",
+    "target_link": "/sports",
+    "language": "sv",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/basketball/international-club-friendly-games"
+  },
+  {
+    "page": "https://www.cloudbet.com/hu/sports/basketball/international-club-friendly-games",
+    "target_link": "/sports",
+    "language": "hu",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/basketball/international-club-friendly-games"
+  },
+  {
+    "page": "https://www.cloudbet.com/tr/sports/basketball/international-club-friendly-games",
+    "target_link": "/sports",
+    "language": "tr",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/basketball/international-club-friendly-games"
+  },
+  {
+    "page": "https://www.cloudbet.com/pl/sports/basketball/international-club-friendly-games",
+    "target_link": "/sports",
+    "language": "pl",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/basketball/international-club-friendly-games"
+  },
+  {
+    "page": "https://www.cloudbet.com/pt-br/sports/basketball/international-club-friendly-games",
+    "target_link": "/sports",
+    "language": "pt-br",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/basketball/international-club-friendly-games"
+  },
+  {
+    "page": "https://www.cloudbet.com/ru/sports/basketball/international-club-friendly-games",
+    "target_link": "/sports",
+    "language": "ru",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/basketball/international-club-friendly-games"
+  },
+  {
+    "page": "https://www.cloudbet.com/ro/sports/basketball/international-club-friendly-games",
+    "target_link": "/sports",
+    "language": "ro",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/basketball/international-club-friendly-games"
+  },
+  {
+    "page": "https://www.cloudbet.com/ko/sports/basketball/international-club-friendly-games",
+    "target_link": "/sports",
+    "language": "ko",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/basketball/international-club-friendly-games"
+  },
+  {
+    "page": "https://www.cloudbet.com/ja/sports/basketball/international-club-friendly-games",
+    "target_link": "/sports",
+    "language": "ja",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/basketball/international-club-friendly-games"
+  },
+  {
+    "page": "https://www.cloudbet.com/th/sports/basketball/international-club-friendly-games",
+    "target_link": "/sports",
+    "language": "th",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/basketball/international-club-friendly-games"
+  },
+  {
+    "page": "https://www.cloudbet.com/vi/sports/basketball/international-club-friendly-games",
+    "target_link": "/sports",
+    "language": "vi",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/basketball/international-club-friendly-games"
+  },
+  {
+    "page": "https://www.cloudbet.com/en/sports/soccer/england-premier-league",
+    "target_link": "/sports",
+    "language": "en",
+    "status_code": 200,
+    "link_found": true,
+    "matches": [
+      "/en/sports"
+    ],
+    "anchor_texts": [
+      "Bitcoin betting odds"
     ]
   },
   {
@@ -4809,20 +4461,7 @@
       "/en/sports"
     ],
     "anchor_texts": [
-      "Sports"
-    ]
-  },
-  {
-    "page": "https://www.cloudbet.com/en/sports/soccer/england-premier-league",
-    "target_link": "/sports",
-    "language": "en",
-    "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/en/sports"
-    ],
-    "anchor_texts": [
-      "Sports"
+      "Bitcoin betting odds"
     ],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-premier-league"
   },
@@ -4831,13 +4470,9 @@
     "target_link": "/sports",
     "language": "es",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/es/sports"
-    ],
-    "anchor_texts": [
-      "Deportes"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-premier-league"
   },
   {
@@ -4845,13 +4480,9 @@
     "target_link": "/sports",
     "language": "de",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/de/sports"
-    ],
-    "anchor_texts": [
-      "Sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-premier-league"
   },
   {
@@ -4859,13 +4490,9 @@
     "target_link": "/sports",
     "language": "it",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/it/sports"
-    ],
-    "anchor_texts": [
-      "Sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-premier-league"
   },
   {
@@ -4873,13 +4500,9 @@
     "target_link": "/sports",
     "language": "fr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/fr/sports"
-    ],
-    "anchor_texts": [
-      "Sports"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-premier-league"
   },
   {
@@ -4887,13 +4510,9 @@
     "target_link": "/sports",
     "language": "sv",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/sv/sports"
-    ],
-    "anchor_texts": [
-      "Sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-premier-league"
   },
   {
@@ -4901,13 +4520,9 @@
     "target_link": "/sports",
     "language": "hu",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/hu/sports"
-    ],
-    "anchor_texts": [
-      "Sportok"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-premier-league"
   },
   {
@@ -4915,13 +4530,9 @@
     "target_link": "/sports",
     "language": "tr",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/tr/sports"
-    ],
-    "anchor_texts": [
-      "Spor"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-premier-league"
   },
   {
@@ -4929,13 +4540,9 @@
     "target_link": "/sports",
     "language": "pl",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pl/sports"
-    ],
-    "anchor_texts": [
-      "Sport"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-premier-league"
   },
   {
@@ -4943,13 +4550,9 @@
     "target_link": "/sports",
     "language": "pt-br",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/pt-br/sports"
-    ],
-    "anchor_texts": [
-      "Esportes"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-premier-league"
   },
   {
@@ -4957,13 +4560,9 @@
     "target_link": "/sports",
     "language": "ru",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ru/sports"
-    ],
-    "anchor_texts": [
-      "\u0421\u043f\u043e\u0440\u0442"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-premier-league"
   },
   {
@@ -4971,13 +4570,9 @@
     "target_link": "/sports",
     "language": "ro",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ro/sports"
-    ],
-    "anchor_texts": [
-      "Sporturi"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-premier-league"
   },
   {
@@ -4985,13 +4580,9 @@
     "target_link": "/sports",
     "language": "ko",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ko/sports"
-    ],
-    "anchor_texts": [
-      "\uc2a4\ud3ec\uce20"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-premier-league"
   },
   {
@@ -4999,13 +4590,9 @@
     "target_link": "/sports",
     "language": "ja",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/ja/sports"
-    ],
-    "anchor_texts": [
-      "\u30b9\u30dd\u30fc\u30c4"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-premier-league"
   },
   {
@@ -5013,13 +4600,9 @@
     "target_link": "/sports",
     "language": "th",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/th/sports"
-    ],
-    "anchor_texts": [
-      "\u0e01\u0e35\u0e2c\u0e32"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-premier-league"
   },
   {
@@ -5027,13 +4610,9 @@
     "target_link": "/sports",
     "language": "vi",
     "status_code": 200,
-    "link_found": true,
-    "matches": [
-      "/vi/sports"
-    ],
-    "anchor_texts": [
-      "Th\u1ec3 thao"
-    ],
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
     "source_page": "https://www.cloudbet.com/en/sports/soccer/england-premier-league"
   },
   {
@@ -5046,7 +4625,175 @@
       "/en/sports"
     ],
     "anchor_texts": [
-      "Sports"
+      "Crypto betting"
     ]
+  },
+  {
+    "page": "https://www.cloudbet.com/en/sports/tennis/atp-wimbledon-men-s-singles",
+    "target_link": "/sports",
+    "language": "en",
+    "status_code": 200,
+    "link_found": true,
+    "matches": [
+      "/en/sports"
+    ],
+    "anchor_texts": [
+      "Crypto betting"
+    ],
+    "source_page": "https://www.cloudbet.com/en/sports/tennis/atp-wimbledon-men-s-singles"
+  },
+  {
+    "page": "https://www.cloudbet.com/es/sports/tennis/atp-wimbledon-men-s-singles",
+    "target_link": "/sports",
+    "language": "es",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/tennis/atp-wimbledon-men-s-singles"
+  },
+  {
+    "page": "https://www.cloudbet.com/de/sports/tennis/atp-wimbledon-men-s-singles",
+    "target_link": "/sports",
+    "language": "de",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/tennis/atp-wimbledon-men-s-singles"
+  },
+  {
+    "page": "https://www.cloudbet.com/it/sports/tennis/atp-wimbledon-men-s-singles",
+    "target_link": "/sports",
+    "language": "it",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/tennis/atp-wimbledon-men-s-singles"
+  },
+  {
+    "page": "https://www.cloudbet.com/fr/sports/tennis/atp-wimbledon-men-s-singles",
+    "target_link": "/sports",
+    "language": "fr",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/tennis/atp-wimbledon-men-s-singles"
+  },
+  {
+    "page": "https://www.cloudbet.com/sv/sports/tennis/atp-wimbledon-men-s-singles",
+    "target_link": "/sports",
+    "language": "sv",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/tennis/atp-wimbledon-men-s-singles"
+  },
+  {
+    "page": "https://www.cloudbet.com/hu/sports/tennis/atp-wimbledon-men-s-singles",
+    "target_link": "/sports",
+    "language": "hu",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/tennis/atp-wimbledon-men-s-singles"
+  },
+  {
+    "page": "https://www.cloudbet.com/tr/sports/tennis/atp-wimbledon-men-s-singles",
+    "target_link": "/sports",
+    "language": "tr",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/tennis/atp-wimbledon-men-s-singles"
+  },
+  {
+    "page": "https://www.cloudbet.com/pl/sports/tennis/atp-wimbledon-men-s-singles",
+    "target_link": "/sports",
+    "language": "pl",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/tennis/atp-wimbledon-men-s-singles"
+  },
+  {
+    "page": "https://www.cloudbet.com/pt-br/sports/tennis/atp-wimbledon-men-s-singles",
+    "target_link": "/sports",
+    "language": "pt-br",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/tennis/atp-wimbledon-men-s-singles"
+  },
+  {
+    "page": "https://www.cloudbet.com/ru/sports/tennis/atp-wimbledon-men-s-singles",
+    "target_link": "/sports",
+    "language": "ru",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/tennis/atp-wimbledon-men-s-singles"
+  },
+  {
+    "page": "https://www.cloudbet.com/ro/sports/tennis/atp-wimbledon-men-s-singles",
+    "target_link": "/sports",
+    "language": "ro",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/tennis/atp-wimbledon-men-s-singles"
+  },
+  {
+    "page": "https://www.cloudbet.com/ko/sports/tennis/atp-wimbledon-men-s-singles",
+    "target_link": "/sports",
+    "language": "ko",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/tennis/atp-wimbledon-men-s-singles"
+  },
+  {
+    "page": "https://www.cloudbet.com/ja/sports/tennis/atp-wimbledon-men-s-singles",
+    "target_link": "/sports",
+    "language": "ja",
+    "status_code": 200,
+    "link_found": true,
+    "matches": [
+      "/ja/sports"
+    ],
+    "anchor_texts": [
+      "\u30af\u30ea\u30d7\u30c8\u30d9\u30c3\u30c6\u30a3\u30f3\u30b0"
+    ],
+    "source_page": "https://www.cloudbet.com/en/sports/tennis/atp-wimbledon-men-s-singles"
+  },
+  {
+    "page": "https://www.cloudbet.com/th/sports/tennis/atp-wimbledon-men-s-singles",
+    "target_link": "/sports",
+    "language": "th",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/tennis/atp-wimbledon-men-s-singles"
+  },
+  {
+    "page": "https://www.cloudbet.com/vi/sports/tennis/atp-wimbledon-men-s-singles",
+    "target_link": "/sports",
+    "language": "vi",
+    "status_code": 200,
+    "link_found": false,
+    "matches": [],
+    "anchor_texts": [],
+    "source_page": "https://www.cloudbet.com/en/sports/tennis/atp-wimbledon-men-s-singles"
   }
 ]
